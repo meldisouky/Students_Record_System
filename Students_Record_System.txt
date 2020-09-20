@@ -1,0 +1,1 @@
+Debug/main.c.o Debug/neededFunctions.c.o Debug/config.c.o Debug/system.c.o   
